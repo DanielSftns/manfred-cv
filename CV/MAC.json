@@ -1,0 +1,136 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel Sifontes",
+      "avatar": {
+        "alt": "IMG_20220304_103121.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/05/30b9a1ac-1789-49aa-aa2c-4805c1104f71_img_20220304_103121.jpg"
+      },
+      "location": {
+        "notes": "Venezuela"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://es.fiverr.com/danielsifont703"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/DanielSftns"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sifontesdaniel/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sifontesdaniel/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Cypress",
+          "type": "technology"
+        },
+        {
+          "name": "Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
